@@ -1,0 +1,25 @@
+.logo-hero{
+    height: 225px;
+    width: 500px;
+}
+
+@media(max-width: 991px) {
+  .logo-hero{
+    margin: 0 auto;
+  } 
+   #hero .btn-get-started {
+       margin-left:  auto;
+   }
+   #hero {
+    min-height: 800px
+    ;
+   } 
+}
+
+/* .btn-reg {
+ 
+} */
+
+.h2-title {
+    text-align: center;
+}
